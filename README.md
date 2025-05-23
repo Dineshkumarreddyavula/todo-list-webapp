@@ -17,7 +17,7 @@ A simple and responsive web-based To-Do List application built using HTML, CSS, 
 
 ## Screenshot
 
-![To-Do List Screenshot](screenshot.png)
+![To-Do List Screenshot](Screenshot.png)
 
 
 ## How to Run
