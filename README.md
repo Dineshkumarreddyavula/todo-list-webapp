@@ -15,6 +15,11 @@ A simple and responsive web-based To-Do List application built using HTML, CSS, 
 - CSS3
 - JavaScript (ES6)
 
+## Screenshot
+
+![To-Do List Screenshot](screenshot.png)
+
+
 ## How to Run
 
 1. Clone this repository or download the ZIP.
